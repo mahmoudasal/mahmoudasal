@@ -18,9 +18,8 @@
  
  🎯 Focused on **Clean Architecture, State Management, and User Experience**
  
- � Passionate about **Native Performance and Smooth Animations**
+ 🔥 Passionate about **Native Performance and Smooth Animations**
 
- ⚡ Fun fact: **I can make any UI design come to life with Flutter magic! ✨**
  
 </div>
 
