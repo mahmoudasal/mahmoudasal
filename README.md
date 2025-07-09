@@ -30,7 +30,7 @@
   <a href="mailto:mahmoudasal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/mahmoudasal" target="_blank">
+  <a href="https://www.linkedin.com/in/mahmoud-asal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/mahmoudasal" target="_blank">
@@ -45,8 +45,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  
 </div>
 
 <br/>
@@ -147,5 +146,3 @@
 **Thanks for visiting! 😊 Don't forget to ⭐ some repositories if you find them interesting!**
 
 </div>
-
-<img src="https://raw.githubusercontent.com/mahmoudasal/mahmoudasal/output/github-contribution-grid-snake.svg" alt="Snake animation" />
