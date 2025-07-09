@@ -63,23 +63,15 @@
 
 <h3 align="center">📱 Mobile Development</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </div>
 
-<h3 align="center">🗄️ Backend & APIs</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi" />
-</div>
 
 <h3 align="center">🗃️ Databases & Cloud</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,postgresql,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=firebase,mysql" />
 </div>
 
-<h3 align="center">☁️ Cloud Services</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare" />
-</div>
 
 <h3 align="center">🛠️ Development Tools</h3>
 <div align="center">
@@ -114,79 +106,18 @@
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 <br/>
 
-<div align="center">
-    
-### 📱 **ECommerce Flutter App**
-*Complete shopping experience with payment integration*
-- **Tech Stack:** Flutter, Firebase, Stripe, BLoC
-- **Features:** Real-time cart, Push notifications, Payment gateway
-- ⭐ **50+ Stars** • 🍴 **15 Forks**
-
-### 🎵 **Music Streaming App** 
-*Cross-platform music player with offline support*
-- **Tech Stack:** Flutter, Node.js, MongoDB, Socket.io
-- **Features:** Audio streaming, Offline downloads, Social sharing
-- ⭐ **80+ Stars** • 🍴 **25 Forks**
-
-### 💬 **Chat Application**
-*Real-time messaging with multimedia support*
-- **Tech Stack:** Flutter, Firebase, WebRTC, Provider
-- **Features:** Video calls, File sharing, Group chats
-- ⭐ **120+ Stars** • 🍴 **40 Forks**
-
-### 🏥 **Healthcare Management System**
-*Patient management and telemedicine platform*
-- **Tech Stack:** Flutter, Django REST, PostgreSQL
-- **Features:** Appointment booking, Video consultations, Medical records
-- ⭐ **200+ Stars** • 🍴 **60 Forks**
-
-### 🎮 **2D Game Engine**
-*Custom Flutter game engine for mobile games*
-- **Tech Stack:** Flutter, Dart, Custom Physics Engine
-- **Features:** Sprite animations, Collision detection, Level editor
-- ⭐ **150+ Stars** • 🍴 **35 Forks**
-
-</div>
-
-<br/>
 <hr/>
 
-<h2 align="center">🏆 Achievements & Recognition 🏆</h2>
-<br/>
-<div align="center">
-    
-🏅 **Google Developer Expert (GDE) - Flutter & Dart**
-    
-🥇 **Flutter Forward Event Speaker - Cairo 2023**
-    
-📱 **Published 5+ Apps on Play Store & App Store**
-    
-⭐ **1000+ GitHub Stars across repositories**
-    
-🏆 **Winner - Flutter Hackathon Egypt 2023**
-    
-💎 **Top 1% Flutter Developer on StackOverflow**
-    
-📚 **Technical Writer - 50+ Flutter Articles**
-
-</div>
-
-<br/>
-<hr/>
 
 <h2 align="center">📚 Skills & Expertise 📚</h2>
 <br/>
 
 <div align="center">
 
-| **Mobile Development** | **Backend & APIs** | **DevOps & Tools** |
-|:---:|:---:|:---:|
-| Flutter & Dart | Node.js & Express | Docker & Kubernetes |
-| Native Android (Kotlin) | Python & Django | AWS & Firebase |
-| Native iOS (Swift) | RESTful APIs | CI/CD Pipelines |
-| React Native | GraphQL | Git & GitHub Actions |
-| Cross-platform Development | Microservices | Testing & QA |
-
+| **Mobile Development** |
+|:---:|
+| Flutter & Dart |
+| RESTful APIs |
 </div>
 
 <br/>
@@ -195,29 +126,11 @@
 <h2 align="center">📈 Performance Metrics 📈</h2>
 <br/>
 
-<div align="center">
-    
-**📱 Apps Published:** 15+ Mobile Applications
-    
-**👥 Users Reached:** 100,000+ Active Users
-    
-**⚡ Performance:** 99.9% Crash-free Rate
-    
-**🌟 Rating:** 4.8+ Average App Store Rating
-    
-**🔧 Code Quality:** 95%+ Test Coverage
-    
-**🚀 Deployment:** 500+ Successful Releases
-
-</div>
-
-<br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mahmoudasal/mahmoudasal/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
