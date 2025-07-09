@@ -100,32 +100,6 @@
 
 </div>
 
-<br/>
-<hr/>
-
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-<br/>
-
-<hr/>
-
-
-<h2 align="center">📚 Skills & Expertise 📚</h2>
-<br/>
-
-<div align="center">
-
-| **Mobile Development** |
-|:---:|
-| Flutter & Dart |
-| RESTful APIs |
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">📈 Performance Metrics 📈</h2>
-<br/>
-
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -174,7 +148,7 @@
 
 <div align="center">
     
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"The best way to learn is to teach"* – Oppenheimer
 
 **Thanks for visiting! 😊 Don't forget to ⭐ some repositories if you find them interesting!**
 
